@@ -1,7 +1,7 @@
 # socketio-server
 
 ## Introduction
-Socket.io real-time server for <a href="https://github.com/SimoneC03/socketio-chat-inertia" target="_blank">socketio-server</a>
+Socket.io real-time server for <a href="https://github.com/SimoneC03/socketio-chat-inertia" target="_blank">socketio-chat-inertia</a>
 
 ## Installation
 
